@@ -6,5 +6,14 @@ Code source : https://github.com/Lucas-IQ21/aircraft/tree/master
 L'objectif de la page carbutant 
 
 ### Onglets : 
-- handleFuel 
-    --  currentFuel
+```
+HandleFuel (composant) 
+├── HandleFuel
+│   ├── CurrentFuel
+```
+--- 
+# TODO : 
+- Fuel actuel dans l'avion
+- Quantité en $ du fuel actuel dans l'avion
+...
+- Fuel requis pour un vol entre deux aéroports
