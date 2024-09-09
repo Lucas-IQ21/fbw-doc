@@ -4,3 +4,7 @@ Code source : https://github.com/Lucas-IQ21/aircraft/tree/master
 ---  
 # Calcule carburant
 L'objectif de la page carbutant 
+
+### Onglets : 
+- handleFuel 
+    --  currentFuel
